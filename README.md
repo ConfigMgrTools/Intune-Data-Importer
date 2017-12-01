@@ -1,8 +1,5 @@
 # Microsoft Intune Data Importer
 
-Version [1.0
-](https://github.com/ConfigMgrTools/Intune-Data-Importer/releases)
-
 See [release notes](https://github.com/ConfigMgrTools/Intune-Data-Importer/releases) for more information.
 
 The Microsoft Intune Data Importer enables admins using System Center Configuration Manager (ConfigMgr) for MDM management to copy policies from ConfigMgr to Microsoft Intune.
